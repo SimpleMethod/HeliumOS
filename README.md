@@ -4,7 +4,7 @@
 
 ## Simple command line interface for create and manage tasks based on STM32
 
-![HeliumOS](https://raw.githubusercontent.com/SimpleMethod/HeliumTralphium/master/images/heliumOS.png)
+![HeliumOS](https://raw.githubusercontent.com/SimpleMethod/HeliumOS/master/Images/heliumOS.png)
 
 # 🚀  Features
 
